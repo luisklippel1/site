@@ -1,4 +1,3 @@
-
 body {
     font-size: 16px;
     color: rgb(235, 16, 16);
@@ -24,7 +23,7 @@ body {
 #perfil {
     width: 276px;
     border-radius: 100%;
-    border: 5px solid blanchedalmond;
+    border: 5px solid rgb(226, 142, 16);
 }
 
 #content {
