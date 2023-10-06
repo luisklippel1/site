@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../uvv sinb"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../TrabalhinhoLegal"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"TRABALHO.C": "cpp"
+		}
+	}
+}

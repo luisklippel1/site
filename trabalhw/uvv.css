@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(0, 0, 0, 0.58);
+    background-image: url('c:\Users\usuario\Downloads\lua.jpeg');
+    background-size: cover;
+    background-blend-mode: multiply;
+    
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+    color: #f554a4;
+}
+
+p {
+    display: flex;
+    justify-content: bottom;
+    font-size:22px;
+}
